@@ -12,7 +12,11 @@
 
 ## More About Me
 
-- [hackmd](https://hackmd.io/@ZuoTso)
+<a href="https://hackmd.io/@ZuoTso" title="HackMD">
+  <img src="https://cdn.simpleicons.org/hackmd/ffffff?size=32"
+       width="32" height="32" alt="HackMD"/>
+</a>
+
 <!--
 **ZuoTso/ZuoTso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
