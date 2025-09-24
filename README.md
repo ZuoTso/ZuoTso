@@ -13,7 +13,7 @@
 ## More About Me
 
 <a href="https://hackmd.io/@ZuoTso" title="HackMD">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hackmd.svg"
+  <img src="assets/icons/hackmd-400.png"
        width="32" height="32" alt="HackMD"/>
 </a>
 
