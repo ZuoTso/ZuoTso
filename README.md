@@ -5,6 +5,14 @@
 
 - ⚙️機械背景轉向🖥️資訊領域（跨域實作與協作）
 - 🧪 研究興趣：Machine Learning、Reinforcement Learning
+
+## 📬Contact Me／聯絡我
+
+- E-mail：chiushengzuo[at]gmail.com
+
+## More About Me
+
+- [hackmd](https://hackmd.io/@ZuoTso)
 <!--
 **ZuoTso/ZuoTso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
